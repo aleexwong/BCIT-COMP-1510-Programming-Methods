@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"m":"ca.bcit.comp1510.atwo","l":"q1"},{"m":"ca.bcit.comp1510.atwo","l":"q2"},{"m":"ca.bcit.comp1510.atwo","l":"q3"},{"m":"ca.bcit.comp1510.atwo","l":"q4"},{"m":"ca.bcit.comp1510.atwo","l":"q5"}]
